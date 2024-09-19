@@ -4,17 +4,19 @@
     "url": "https://jellyfin.akhila.me",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.akhila.me.ico",
     "slug": "jellyfin",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1105,
-    "timeDay": 1105,
-    "timeWeek": 1105,
-    "timeMonth": 1105,
-    "timeYear": 1105,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1650,
+    "timeDay": 1650,
+    "timeWeek": 1650,
+    "timeMonth": 1650,
+    "timeYear": 1650,
+    "dailyMinutesDown": {
+      "2024-09-19": 0
+    }
   }
 ]
