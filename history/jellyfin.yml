@@ -1,7 +1,7 @@
 url: https://jellyfin.akhila.me
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-28T10:40:11.617Z
+status: up
+code: 200
+responseTime: 5120
+lastUpdated: 2024-11-28T10:50:03.159Z
 startTime: 2024-09-19T14:01:27.075Z
 generator: Upptime <https://github.com/upptime/upptime>
